@@ -24,6 +24,7 @@ export const SearchForm: React.FC = () => {
                     placeholder="Search for a movie..."
                     className="w-full p-2 pl-8 rounded-md border border-gray-400 bg-[#2b2b2b] text-white focus:outline-none focus:ring-2 focus:ring-blue-500"
                 />
+
                 <Search className="absolute left-2 top-2 text-gray-400" />
             </div>
         </form>
